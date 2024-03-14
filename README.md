@@ -27,6 +27,7 @@ This form sends back filled data to your linked gmail or anyother account :-
 ![Screenshot 2024-03-14 211053](https://github.com/ArchProtios/Educity-Website-React/assets/99127122/f8526d67-1935-4850-b6a2-714b7cade9c2)
 
 => HERE_EVERY_SECTION_OF_THE_FORM_IS_LINKED_WITH_NAVBAR_FOR_QUICK_TRAVERSE.
+
 => HERE_WE_USE_WEB3FORMS_API_TO_CONNECT_FORM_WITH_YOUR_ACCOUNT
  
 
